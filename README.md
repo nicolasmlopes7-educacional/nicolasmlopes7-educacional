@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Gosto de programação e futebol.</h2>
+<h2 align="left">Gosto de programação, futebol e estudar.</h2>
 
 ###
 
